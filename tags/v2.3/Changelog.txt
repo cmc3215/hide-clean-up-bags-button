@@ -1,0 +1,74 @@
+**2.3**
+
+- Release date: 10/24/2020
+- TOC updated for patch 9.0.1.
+
+**2.2**
+
+- Release date: 05/09/2020
+- TOC updated for patch 8.3.0.
+
+**2.1**
+
+- Release date: 10/12/2019
+- TOC updated for patch 8.2.5.
+
+**2.0**
+
+- Release date: 08/17/2019
+- TOC updated for patch 8.2.
+
+**1.9**
+
+- Release date: 12/22/2018
+- TOC updated for patch 8.1.
+
+**1.8**
+
+- Release date: 07/18/2018
+- TOC updated for patch 8.0.1.
+
+**1.7**
+
+- Release date: 08/31/2017
+- TOC updated for patch 7.3.0.
+
+**1.6**
+
+- Release date: 03/30/2017
+- TOC updated for patch 7.2.0.
+
+**1.5**
+
+- Release date: 10/25/2016
+- TOC updated for patch 7.1.0.
+
+**1.4**
+
+- Release date: 07/19/2016
+- TOC updated for patch 7.0.3.
+
+**1.3**
+
+- Release date: 06/23/2015
+- TOC updated for patch 6.2.0.
+- No longer unintentionally extends the width of Bank/Reagent Bank SearchBox when the corresponding "Clean Up" button is hidden.
+- No longer prints a message when successfully hiding or showing Bank/Reagent Bank "Clean Up" button with slash command, seemed unnecessary, although a message is printed if the slash command was incorrect.
+
+**1.2**
+
+- Release date: 02/24/2015
+- TOC updated for patch 6.1.0.
+
+**1.1**
+
+- Release date: 01/19/2015
+- Now hides clean up bank/reagent bank button by default.
+- New slash command /hidecleanupbagsbutton bank hide.
+- New slash command /hidecleanupbagsbutton bank show.
+- Alternate slash command access using /hcubb.
+
+**1.0**
+
+- Release date: 11/13/2014
+- Initial public release.
